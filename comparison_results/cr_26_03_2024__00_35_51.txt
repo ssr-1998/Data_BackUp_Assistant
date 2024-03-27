@@ -1,0 +1,18 @@
+Comparison Results for:
+	Old File - scanned_JSONs\D__Sample_for_Drive_Scan_26_03_2024__00_11_33.json
+	New File - scanned_JSONs\D__Sample_for_Drive_Scan_26_03_2024__00_35_01.json
+
+
+{
+    "MISSING": [
+        "D:/Sample_for_Drive_Scan\\Data\\telecom_churn_data.csv",
+        "D:/Sample_for_Drive_Scan\\Custom Python Functions\\(Done) Creating Function to Detect & Handle Multi-Collinearity.ipynb"
+    ],
+    "ADDED": [
+        "D:/Sample_for_Drive_Scan\\Custom Python Functions\\Data\\telecom_churn_data - Copy.csv"
+    ],
+    "UPDATED": [
+        "D:/Sample_for_Drive_Scan\\Custom Python Functions\\Custom Python Functions.txt",
+        "D:/Sample_for_Drive_Scan\\uhi_1.txt"
+    ]
+}
